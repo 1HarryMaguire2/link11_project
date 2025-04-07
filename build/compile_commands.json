@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/hj/Desktop/link11_project/build",
+  "command": "D:\\VS_code\\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe   -g -g -o CMakeFiles\\Link11.dir\\main.cpp.obj -c C:\\Users\\hj\\Desktop\\link11_project\\main.cpp",
+  "file": "C:/Users/hj/Desktop/link11_project/main.cpp",
+  "output": "CMakeFiles/Link11.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/hj/Desktop/link11_project/build",
+  "command": "D:\\VS_code\\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe   -g -g -o CMakeFiles\\Link11.dir\\src\\encode_hamming.cpp.obj -c C:\\Users\\hj\\Desktop\\link11_project\\src\\encode_hamming.cpp",
+  "file": "C:/Users/hj/Desktop/link11_project/src/encode_hamming.cpp",
+  "output": "CMakeFiles/Link11.dir/src/encode_hamming.cpp.obj"
+},
+{
+  "directory": "C:/Users/hj/Desktop/link11_project/build",
+  "command": "D:\\VS_code\\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe   -g -g -o CMakeFiles\\Link11.dir\\src\\mod_dqpsk.cpp.obj -c C:\\Users\\hj\\Desktop\\link11_project\\src\\mod_dqpsk.cpp",
+  "file": "C:/Users/hj/Desktop/link11_project/src/mod_dqpsk.cpp",
+  "output": "CMakeFiles/Link11.dir/src/mod_dqpsk.cpp.obj"
+},
+{
+  "directory": "C:/Users/hj/Desktop/link11_project/build",
+  "command": "D:\\VS_code\\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe   -g -g -o CMakeFiles\\Link11.dir\\src\\files_opration.cpp.obj -c C:\\Users\\hj\\Desktop\\link11_project\\src\\files_opration.cpp",
+  "file": "C:/Users/hj/Desktop/link11_project/src/files_opration.cpp",
+  "output": "CMakeFiles/Link11.dir/src/files_opration.cpp.obj"
+},
+{
+  "directory": "C:/Users/hj/Desktop/link11_project/build",
+  "command": "D:\\VS_code\\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe   -g -g -o CMakeFiles\\Link11.dir\\src\\doppler_correction.cpp.obj -c C:\\Users\\hj\\Desktop\\link11_project\\src\\doppler_correction.cpp",
+  "file": "C:/Users/hj/Desktop/link11_project/src/doppler_correction.cpp",
+  "output": "CMakeFiles/Link11.dir/src/doppler_correction.cpp.obj"
+}
+]

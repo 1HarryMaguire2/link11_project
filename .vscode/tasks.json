@@ -1,0 +1,30 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "options": {
+        "cwd": "${workspaceFolder}\\build"
+    },
+    "tasks": [
+        //task1-link11-cmake
+        {
+            "label": "Link11-Cmake-build",
+            "type": "shell",
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "command": "mkdir build; cd build; cmake -G 'MinGW Makefiles' ..; mingw32-make ",
+            "group": "build"
+        },
+        //task2-link11-gpp
+        {
+            "label": "Link11-gpp-build",
+            "type": "shell",
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "command": "mkdir output; g++ main.cpp src/encode_hamming.cpp src/mod_dqpsk.cpp src/files_opration.cpp src/doppler_correction.cpp -g -o output/Link11",
+            "group": "build"
+        }
+    ]
+}
